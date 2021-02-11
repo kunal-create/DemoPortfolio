@@ -1,5 +1,7 @@
-# DemoPortfolio
-Demo data science portfolio
+# DataScience Portfolio
+Kunal Guwalani
+
+<img src="https://github.com/kunal-create/Projects/blob/main/Profile.png" width="200">
 
 # [Project 1: Credit Fraud Detector: Project Overview](https://github.com/kunal-create/Projects)
 * Understand the little distribution of the "little" data that was provided to us.
